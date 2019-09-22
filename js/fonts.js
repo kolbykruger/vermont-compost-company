@@ -4,7 +4,7 @@
         sessionStorage.fonts = true;
       },
       google: {
-        families: ['Open+Sans:300,400,400i,500,600,700']
+        families: ['Roboto+Slab:100,300,400,700&display=swap']
       },
       timeout: 2000
     };
